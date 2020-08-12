@@ -6,5 +6,14 @@
     <select id="getUserCount" parameterType="Integer" resultType="String">
         select phoneormail from oremin_front.user_sms where id=#{id};
     </select>
+    <insert id="addSms" parameterType="com.vico.model.UserSms">
+        insert into oremin_front.user_sms(phoneormail,code) values(#{phoneormail},#{code});
+    </insert>
+    <update id="updateSam" parameterType="com.vico.model.UserSms">
+        update oremin_front.user_sms set code=#{code},phoneormail=#{phoneormail} where id=#{id}
+    </update>
+    <delete id="deleteSam" parameterType="Integer">
+        delete from oremin_front.user_sms where id=#{id}
+    </delete>
 </mapper>
 
