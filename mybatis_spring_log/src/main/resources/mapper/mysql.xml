@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN"
+        "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+
+<mapper namespace="vicos1">
+    <select id="getUserCount" parameterType="Integer" resultType="String">
+        select phoneormail from oremin_front.user_sms where id=#{id};
+    </select>
+</mapper>
+
