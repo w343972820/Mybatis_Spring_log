@@ -2,21 +2,55 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6a43b201-e1b2-49c4-9a76-3d726788377a" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mybatis_spring_log/src/main/java/com/vico/demo/Demo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_zaxxer_HikariCP_3_4_5.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_mybatis_mybatis_spring_1_3_1.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_mybatis_spring_boot_mybatis_spring_boot_autoconfigure_1_3_0.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_mybatis_spring_boot_mybatis_spring_boot_starter_1_3_0.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_jdbc_2_3_2_RELEASE.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_jdbc_5_2_8_RELEASE.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_tx_5_2_8_RELEASE.xml" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__aopalliance_aopalliance_1_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_aventstack_extentreports_3_0_6.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_beust_jcommander_1_78.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_inject_guice_no_aop_4_2_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_relevantcodes_extentreports_2_41_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_vimalselvam_testng_extentsreport_1_3_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_codec_commons_codec_1_14.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_inject_javax_inject_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__junit_junit_4_13.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_ant_ant_1_10_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_ant_ant_launcher_1_10_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_httpcomponents_httpclient_4_1_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_httpcomponents_httpcore_4_4_13.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_httpcomponents_httpmime_4_5_12.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_freemarker_freemarker_2_3_30.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hamcrest_hamcrest_2_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hamcrest_hamcrest_core_2_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_jsoup_jsoup_1_8_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_mongodb_bson_4_0_5.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_mongodb_mongodb_driver_3_0_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_mongodb_mongodb_driver_core_4_0_5.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_testng_testng_7_3_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_xerial_sqlite_jdbc_3_31_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mybatis_spring_log/src/main/java/com/vico/cases/AddUserTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mybatis_spring_log/src/main/java/com/vico/cases/LoginTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mybatis_spring_log/src/main/java/com/vico/cases/MyTestXml.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mybatis_spring_log/src/main/java/com/vico/config/ExtentTestNGIReporterListener.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mybatis_spring_log/src/main/java/com/vico/config/TestConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mybatis_spring_log/src/main/java/com/vico/model/AddUserCase.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mybatis_spring_log/src/main/java/com/vico/model/GetUserInfoCase.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mybatis_spring_log/src/main/java/com/vico/model/GetUserListCase.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mybatis_spring_log/src/main/java/com/vico/model/InterfaceName.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mybatis_spring_log/src/main/java/com/vico/model/LoginCase.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mybatis_spring_log/src/main/java/com/vico/model/UpdateUserInfoCase.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mybatis_spring_log/src/main/java/com/vico/model/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mybatis_spring_log/src/main/java/com/vico/mysqldemo/VicoMysqlTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mybatis_spring_log/src/main/java/com/vico/utils/ConfigFile.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mybatis_spring_log/src/main/resources/mapper/MyTestMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mybatis_spring_log/src/main/resources/moco-runner-0.11.0-standalone.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mybatis_spring_log/src/main/resources/testng.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mybatis_spring_log/src/main/resources/userManager.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/mybatis_spring_log/mybatis_spring_log.iml" beforeDir="false" afterPath="$PROJECT_DIR$/mybatis_spring_log/mybatis_spring_log.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/mybatis_spring_log/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/mybatis_spring_log/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mybatis_spring_log/src/main/java/com/vico/controller/Demo.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mybatis_spring_log/src/main/resources/logback.xml" beforeDir="false" afterPath="$PROJECT_DIR$/mybatis_spring_log/src/main/resources/logback.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mybatis_spring_log/src/main/java/com/vico/demo/Demo.java" beforeDir="false" afterPath="$PROJECT_DIR$/mybatis_spring_log/src/main/java/com/vico/mysqldemo/Demo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mybatis_spring_log/src/main/java/com/vico/utils/DatabaseUtil.java" beforeDir="false" afterPath="$PROJECT_DIR$/mybatis_spring_log/src/main/java/com/vico/utils/DatabaseUtil.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mybatis_spring_log/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/mybatis_spring_log/src/main/resources/application.properties" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/mybatis_spring_log/src/main/resources/mapper/mysql.xml" beforeDir="false" afterPath="$PROJECT_DIR$/mybatis_spring_log/src/main/resources/mapper/mysql.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mybatis_spring_log/src/main/resources/mytabis-config.xml" beforeDir="false" afterPath="$PROJECT_DIR$/mybatis_spring_log/src/main/resources/mybatis-config.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/mybatis_spring_log/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -33,49 +67,55 @@
     <session id="1575067309">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="3" />
+          <entry key="project.closed" value="4" />
           <entry key="project.open.time.0" value="1" />
-          <entry key="project.open.time.6" value="2" />
+          <entry key="project.open.time.6" value="3" />
           <entry key="project.open.time.7" value="1" />
-          <entry key="project.opened" value="4" />
+          <entry key="project.opened" value="5" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="class" value="3" />
+          <entry key="class" value="5" />
           <entry key="dtd" value="1" />
           <entry key="fxml" value="1" />
           <entry key="iml" value="3" />
-          <entry key="java" value="9" />
-          <entry key="log" value="1" />
-          <entry key="properties" value="1" />
-          <entry key="xml" value="9" />
+          <entry key="java" value="30" />
+          <entry key="json" value="1" />
+          <entry key="log" value="3" />
+          <entry key="properties" value="6" />
+          <entry key="xml" value="20" />
           <entry key="yml" value="2" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="CLASS" value="3" />
+          <entry key="CLASS" value="5" />
           <entry key="DTD" value="1" />
           <entry key="IDEA_MODULE" value="3" />
-          <entry key="JAVA" value="9" />
-          <entry key="PLAIN_TEXT" value="1" />
-          <entry key="Properties" value="1" />
-          <entry key="XML" value="10" />
+          <entry key="JAVA" value="30" />
+          <entry key="JSON" value="1" />
+          <entry key="PLAIN_TEXT" value="3" />
+          <entry key="Properties" value="6" />
+          <entry key="XML" value="21" />
           <entry key="YAML" value="2" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="java" value="1167" />
-          <entry key="xml" value="946" />
+          <entry key="java" value="3675" />
+          <entry key="json" value="6" />
+          <entry key="properties" value="162" />
+          <entry key="xml" value="1465" />
           <entry key="yml" value="308" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="1167" />
-          <entry key="XML" value="946" />
+          <entry key="JAVA" value="3675" />
+          <entry key="JSON" value="6" />
+          <entry key="Properties" value="162" />
+          <entry key="XML" value="1465" />
           <entry key="YAML" value="308" />
         </counts>
       </usages-collector>
@@ -87,56 +127,94 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/mybatis_spring_log/pom.xml">
+        <entry file="file://$PROJECT_DIR$/mybatis_spring_log/src/main/resources/mapper/MyTestMapper.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="229">
-              <caret line="56" selection-start-line="56" selection-end-line="56" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/mybatis_spring_log/src/main/resources/logback.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1809">
-              <caret line="67" column="7" selection-start-line="67" selection-start-column="7" selection-end-line="67" selection-end-column="7" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/mybatis_spring_log/src/main/resources/mapper/mysql.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="378">
-              <caret line="14" column="25" selection-start-line="14" selection-start-column="16" selection-end-line="14" selection-end-column="25" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/mybatis_spring_log/src/main/java/com/vico/Application.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="283">
-              <caret line="23" column="1" selection-start-line="23" selection-start-column="1" selection-end-line="23" selection-end-column="1" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#729#730#0" expanded="true" />
-                <element signature="e#772#773#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="270">
+              <caret line="16" column="22" lean-forward="true" selection-start-line="16" selection-start-column="22" selection-end-line="16" selection-end-column="22" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/mybatis_spring_log/src/main/java/com/vico/demo/Demo.java">
+        <entry file="file://$PROJECT_DIR$/mybatis_spring_log/src/main/resources/testng.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="292">
-              <caret line="60" column="5" lean-forward="true" selection-start-line="60" selection-start-column="5" selection-end-line="60" selection-end-column="5" />
+            <state relative-caret-position="189">
+              <caret line="7" column="46" lean-forward="true" selection-start-line="7" selection-start-column="46" selection-end-line="7" selection-end-column="46" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/mybatis_spring_log/src/main/java/com/vico/utils/ConfigFile.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="486">
+              <caret line="18" column="39" selection-start-line="18" selection-start-column="39" selection-end-line="18" selection-end-column="39" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#1754#1755#0" expanded="true" />
-                <element signature="e#1803#1804#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/mybatis_spring_log/src/main/java/com/vico/utils/DatabaseUtil.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="270">
+              <caret line="10" column="25" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="25" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/mybatis_spring_log/src/main/java/com/vico/cases/LoginTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="243">
+              <caret line="27" column="79" selection-start-line="27" selection-start-column="79" selection-end-line="27" selection-end-column="79" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/mybatis_spring_log/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="297">
+              <caret line="68" column="57" selection-start-line="68" selection-start-column="57" selection-end-line="68" selection-end-column="57" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/mybatis_spring_log/src/main/java/com/vico/cases/AddUserTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="211">
+              <caret line="32" column="33" lean-forward="true" selection-start-line="32" selection-start-column="33" selection-end-line="32" selection-end-column="33" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/mybatis_spring_log/src/main/resources/userManager.json">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-540">
+              <caret line="46" column="22" selection-start-line="46" selection-start-column="22" selection-end-line="46" selection-end-column="22" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/mybatis_spring_log/src/main/resources/application.properties">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="297">
+              <caret line="11" column="36" selection-start-line="11" selection-start-column="25" selection-end-line="11" selection-end-column="36" />
             </state>
           </provider>
         </entry>
@@ -147,9 +225,15 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="FxmlFile" />
+        <option value="Enum" />
         <option value="Class" />
       </list>
     </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>addUserInfo</find>
+    </findStrings>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -161,17 +245,42 @@
         <option value="$PROJECT_DIR$/mybatis_spring_log/src/main/java/com/vico/model/UserSms.java" />
         <option value="$PROJECT_DIR$/mybatis_spring_log/src/main/java/com/vico/utils/DatabaseUtil.java" />
         <option value="$PROJECT_DIR$/mybatis_spring_log/src/main/resources/application.yml" />
-        <option value="$PROJECT_DIR$/mybatis_spring_log/src/main/resources/application.properties" />
         <option value="$PROJECT_DIR$/mybatis_spring_log/src/main/java/com/vico/Application.java" />
-        <option value="$PROJECT_DIR$/mybatis_spring_log/src/main/resources/mytabis-config.xml" />
         <option value="$PROJECT_DIR$/mybatis_spring_log/mybatis_spring_log.iml" />
-        <option value="$PROJECT_DIR$/mybatis_spring_log/src/main/resources/mapper/mysql.xml" />
         <option value="$PROJECT_DIR$/mybatis_spring_log/src/main/java/com/vico/controller/Demo.java" />
         <option value="$PROJECT_DIR$/mybatis_spring_log/src/main/resources/logback.xml" />
-        <option value="$PROJECT_DIR$/mybatis_spring_log/pom.xml" />
         <option value="$PROJECT_DIR$/mybatis_spring_log/src/main/java/com/vico/demo/Demo.java" />
+        <option value="$PROJECT_DIR$/mybatis_spring_log/src/main/java/com/vico/mysqldemo/VicoMysqlTest.java" />
+        <option value="$PROJECT_DIR$/mybatis_spring_log/src/main/resources/mapper/mysql.xml" />
+        <option value="$PROJECT_DIR$/mybatis_spring_log/src/main/resources/mytabis-config.xml" />
+        <option value="$PROJECT_DIR$/mybatis_spring_log/src/main/resources/mapper/OwnTestMapper.xml" />
+        <option value="$PROJECT_DIR$/mybatis_spring_log/src/main/resources/mybatis-config.xml" />
+        <option value="$PROJECT_DIR$/mybatis_spring_log/src/main/java/com/vico/model/User.java" />
+        <option value="$PROJECT_DIR$/mybatis_spring_log/src/main/java/com/vico/model/AddUserCase.java" />
+        <option value="$PROJECT_DIR$/mybatis_spring_log/src/main/java/com/vico/model/GetUserInfoCase.java" />
+        <option value="$PROJECT_DIR$/mybatis_spring_log/src/main/java/com/vico/model/GetUserListCase.java" />
+        <option value="$PROJECT_DIR$/mybatis_spring_log/src/main/java/com/vico/model/LoginCase.java" />
+        <option value="$PROJECT_DIR$/mybatis_spring_log/src/main/java/com/vico/model/UpdateUserInfoCase.java" />
+        <option value="$PROJECT_DIR$/mybatis_spring_log/src/main/java/com/vico/model/InterfaceName.java" />
+        <option value="$PROJECT_DIR$/mybatis_spring_log/src/main/java/com/vico/config/ExtentTestNGIReporterListener.java" />
+        <option value="$PROJECT_DIR$/mybatis_spring_log/src/main/resources/application.properties" />
+        <option value="$PROJECT_DIR$/mybatis_spring_log/src/main/java/com/vico/config/TestConfig.java" />
+        <option value="$PROJECT_DIR$/mybatis_spring_log/src/main/java/com/vico/utils/ConfigFile.java" />
+        <option value="$PROJECT_DIR$/mybatis_spring_log/src/main/java/com/vico/mysqldemo/Demo.java" />
+        <option value="$PROJECT_DIR$/mybatis_spring_log/pom.xml" />
+        <option value="$PROJECT_DIR$/mybatis_spring_log/src/main/java/com/vico/cases/MyTestXml.java" />
+        <option value="$PROJECT_DIR$/mybatis_spring_log/src/main/java/com/vico/cases/LoginTest.java" />
+        <option value="$PROJECT_DIR$/mybatis_spring_log/src/main/java/com/vico/cases/AddUserTest.java" />
+        <option value="$PROJECT_DIR$/mybatis_spring_log/src/main/resources/testng.xml" />
+        <option value="$PROJECT_DIR$/mybatis_spring_log/src/main/resources/userManager.json" />
+        <option value="$PROJECT_DIR$/mybatis_spring_log/src/main/resources/mapper/MyTestMapper.xml" />
       </list>
     </option>
+  </component>
+  <component name="JavaAutoRunManager">
+    <enabled-run-configurations>
+      <run-configuration type="TestNG" name="LoginTest" />
+    </enabled-run-configurations>
   </component>
   <component name="MavenImportPreferences">
     <option name="importingSettings">
@@ -180,9 +289,15 @@
       </MavenImportingSettings>
     </option>
   </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand />
+      <select />
+    </treeState>
+  </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-1772" />
-    <option name="y" value="48" />
+    <option name="x" value="-1908" />
+    <option name="y" value="25" />
     <option name="width" value="1678" />
     <option name="height" value="1040" />
   </component>
@@ -191,7 +306,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
       <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
@@ -200,18 +314,87 @@
               <item name="Mybatis_Use" type="b2602c69:ProjectViewProjectNode" />
               <item name="Mybatis_Use" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="Mybatis_Use" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Mybatis_Use" type="462c0819:PsiDirectoryNode" />
+              <item name="mybatis_spring_log" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Mybatis_Use" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Mybatis_Use" type="462c0819:PsiDirectoryNode" />
+              <item name="mybatis_spring_log" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Mybatis_Use" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Mybatis_Use" type="462c0819:PsiDirectoryNode" />
+              <item name="mybatis_spring_log" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Mybatis_Use" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Mybatis_Use" type="462c0819:PsiDirectoryNode" />
+              <item name="mybatis_spring_log" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Mybatis_Use" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Mybatis_Use" type="462c0819:PsiDirectoryNode" />
+              <item name="mybatis_spring_log" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="vico" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Mybatis_Use" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Mybatis_Use" type="462c0819:PsiDirectoryNode" />
+              <item name="mybatis_spring_log" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="vico" type="462c0819:PsiDirectoryNode" />
+              <item name="cases" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Mybatis_Use" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Mybatis_Use" type="462c0819:PsiDirectoryNode" />
+              <item name="mybatis_spring_log" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="vico" type="462c0819:PsiDirectoryNode" />
+              <item name="model" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Mybatis_Use" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Mybatis_Use" type="462c0819:PsiDirectoryNode" />
+              <item name="mybatis_spring_log" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
       <pane id="AndroidView" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1597228094453" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1597374522416" />
     <property name="jdk.selected.JAVA_MODULE" value="1.8" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="F:\vico\mybatis_spring_log\Mybatis_Use\mybatis_spring_log\src\main\resources" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -225,7 +408,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="TestNG.F:/vico/mybatis_spring_log/Mybatis_Use/mybatis_spring_log/src/main/resources/testng.xml">
     <configuration name="Application" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.vico.Application" />
       <module name="mybatis_spring_log" />
@@ -239,8 +422,60 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="AddUserTest" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="mybatis_spring_log" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.vico.cases.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/mybatis_spring_log/src/main/resources/testng.xml" />
+      <option name="PACKAGE_NAME" value="com.vico.cases" />
+      <option name="MAIN_CLASS_NAME" value="com.vico.cases.AddUserTest" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="F:/vico/mybatis_spring_log/Mybatis_Use/mybatis_spring_log/src/main/resources/testng.xml" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="mybatis_spring_log" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/mybatis_spring_log/src/main/resources/testng.xml" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LoginTest" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="mybatis_spring_log" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.vico.cases.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.vico.cases" />
+      <option name="MAIN_CLASS_NAME" value="com.vico.cases.LoginTest" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.Application" />
+      <item itemvalue="TestNG.LoginTest" />
+      <item itemvalue="TestNG.F:/vico/mybatis_spring_log/Mybatis_Use/mybatis_spring_log/src/main/resources/testng.xml" />
+      <item itemvalue="TestNG.AddUserTest" />
+    </list>
     <recent_temporary>
       <list>
+        <item itemvalue="TestNG.F:/vico/mybatis_spring_log/Mybatis_Use/mybatis_spring_log/src/main/resources/testng.xml" />
+        <item itemvalue="TestNG.AddUserTest" />
+        <item itemvalue="TestNG.LoginTest" />
         <item itemvalue="Application.Application" />
       </list>
     </recent_temporary>
@@ -258,6 +493,38 @@
     </task>
     <servers />
   </component>
+  <component name="TestHistory">
+    <history-entry file="F__vico_mybatis_spring_log_Mybatis_Use_mybatis_spring_log_src_main_resources_testng_xml - 2020.08.13 at 18h 33m 25s.xml">
+      <configuration name="F:/vico/mybatis_spring_log/Mybatis_Use/mybatis_spring_log/src/main/resources/testng.xml" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="AddUserTest - 2020.08.13 at 18h 33m 31s.xml">
+      <configuration name="AddUserTest" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="F__vico_mybatis_spring_log_Mybatis_Use_mybatis_spring_log_src_main_resources_testng_xml - 2020.08.13 at 18h 34m 57s.xml">
+      <configuration name="F:/vico/mybatis_spring_log/Mybatis_Use/mybatis_spring_log/src/main/resources/testng.xml" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="F__vico_mybatis_spring_log_Mybatis_Use_mybatis_spring_log_src_main_resources_testng_xml - 2020.08.13 at 18h 36m 44s.xml">
+      <configuration name="F:/vico/mybatis_spring_log/Mybatis_Use/mybatis_spring_log/src/main/resources/testng.xml" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="F__vico_mybatis_spring_log_Mybatis_Use_mybatis_spring_log_src_main_resources_testng_xml - 2020.08.14 at 09h 59m 25s.xml">
+      <configuration name="F:/vico/mybatis_spring_log/Mybatis_Use/mybatis_spring_log/src/main/resources/testng.xml" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="F__vico_mybatis_spring_log_Mybatis_Use_mybatis_spring_log_src_main_resources_testng_xml - 2020.08.14 at 09h 59m 51s.xml">
+      <configuration name="F:/vico/mybatis_spring_log/Mybatis_Use/mybatis_spring_log/src/main/resources/testng.xml" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="F__vico_mybatis_spring_log_Mybatis_Use_mybatis_spring_log_src_main_resources_testng_xml - 2020.08.14 at 10h 13m 49s.xml">
+      <configuration name="F:/vico/mybatis_spring_log/Mybatis_Use/mybatis_spring_log/src/main/resources/testng.xml" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="F__vico_mybatis_spring_log_Mybatis_Use_mybatis_spring_log_src_main_resources_testng_xml - 2020.08.14 at 10h 34m 45s.xml">
+      <configuration name="F:/vico/mybatis_spring_log/Mybatis_Use/mybatis_spring_log/src/main/resources/testng.xml" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="F__vico_mybatis_spring_log_Mybatis_Use_mybatis_spring_log_src_main_resources_testng_xml - 2020.08.14 at 10h 36m 59s.xml">
+      <configuration name="F:/vico/mybatis_spring_log/Mybatis_Use/mybatis_spring_log/src/main/resources/testng.xml" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="F__vico_mybatis_spring_log_Mybatis_Use_mybatis_spring_log_src_main_resources_testng_xml - 2020.08.14 at 11h 06m 34s.xml">
+      <configuration name="F:/vico/mybatis_spring_log/Mybatis_Use/mybatis_spring_log/src/main/resources/testng.xml" configurationId="TestNG" />
+    </history-entry>
+  </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
       <is-autoscroll-to-source value="true" />
@@ -271,7 +538,7 @@
     <frame x="-1928" y="-8" width="1936" height="1096" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.497921" visible="true" weight="0.25799572" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.497921" visible="true" weight="0.17803837" />
       <window_info id="Structure" order="1" sideWeight="0.502079" side_tool="true" weight="0.2553305" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -280,12 +547,12 @@
       <window_info id="Favorites" order="6" sideWeight="0.502079" side_tool="true" weight="0.2553305" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.4989339" visible="true" weight="0.45738044" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.4989339" visible="true" weight="0.45738044" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.3991684" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" sideWeight="0.49946696" weight="0.32952183" />
-      <window_info anchor="bottom" id="Terminal" order="7" sideWeight="0.49946696" weight="0.32952183" />
+      <window_info anchor="bottom" id="Terminal" order="7" sideWeight="0.49946696" weight="0.32848233" />
       <window_info anchor="bottom" id="Event Log" order="8" sideWeight="0.5010661" side_tool="true" weight="0.32952183" />
       <window_info anchor="bottom" id="Version Control" order="9" sideWeight="0.4989339" weight="0.32952183" />
       <window_info anchor="bottom" id="Messages" order="10" sideWeight="0.49946696" weight="0.32952183" />
@@ -296,7 +563,7 @@
       <window_info anchor="right" id="Capture Analysis" order="4" />
       <window_info anchor="right" id="Theme Preview" order="5" />
       <window_info anchor="right" id="Palette&#9;" order="6" />
-      <window_info anchor="right" id="Maven Projects" order="7" />
+      <window_info anchor="right" id="Maven Projects" order="7" weight="0.32995737" />
     </layout>
   </component>
   <component name="VcsContentAnnotationSettings">
@@ -311,13 +578,6 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/mybatis_spring_log/src/main/resources/mapper/name.fxml" />
-    <entry file="jar://$MAVEN_REPOSITORY$/org/mybatis/mybatis/3.4.4/mybatis-3.4.4.jar!/org/apache/ibatis/session/SqlSession.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="189">
-          <caret line="15" column="10" selection-start-line="15" selection-start-column="10" selection-end-line="15" selection-end-column="10" />
-        </state>
-      </provider>
-    </entry>
     <entry file="jar://$MAVEN_REPOSITORY$/org/mybatis/mybatis-spring/1.3.1/mybatis-spring-1.3.1.jar!/org/mybatis/spring/SqlSessionTemplate.class">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="206">
@@ -332,17 +592,16 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/mybatis_spring_log/src/main/resources/application.properties">
+    <entry file="file://$PROJECT_DIR$/logs/info.log" />
+    <entry file="file://$PROJECT_DIR$/mybatis_spring_log/src/main/java/com/vico/Application.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="24" selection-start-column="24" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/mybatis_spring_log/src/main/resources/mapper/mysql.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="378">
-          <caret line="14" column="25" selection-start-line="14" selection-start-column="16" selection-end-line="14" selection-end-column="25" />
+        <state relative-caret-position="229">
+          <caret line="21" column="18" selection-start-line="21" selection-start-column="18" selection-end-line="21" selection-end-column="18" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#729#730#0" expanded="true" />
+            <element signature="e#772#773#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -353,63 +612,214 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/mybatis_spring_log/src/main/java/com/vico/utils/DatabaseUtil.java">
+    <entry file="file://$PROJECT_DIR$/mybatis_spring_log/src/main/java/com/vico/mysqldemo/VicoMysqlTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="310">
-          <caret line="18" selection-start-line="18" selection-end-line="18" />
+        <state relative-caret-position="351">
+          <caret line="22" column="36" selection-start-line="22" selection-start-column="27" selection-end-line="22" selection-end-column="36" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/mybatis_spring_log/src/main/resources/mytabis-config.xml">
+    <entry file="file://$PROJECT_DIR$/mybatis_spring_log/src/main/resources/mapper/OwnTestMapper.xml" />
+    <entry file="file://$PROJECT_DIR$/mybatis_spring_log/src/main/java/com/vico/model/GetUserInfoCase.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="108">
-          <caret line="10" column="38" selection-start-line="10" selection-start-column="38" selection-end-line="10" selection-end-column="38" />
+        <state relative-caret-position="216">
+          <caret line="8" column="1" lean-forward="true" selection-start-line="8" selection-start-column="1" selection-end-line="8" selection-end-column="1" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/mybatis_spring_log/src/main/java/com/vico/Application.java">
+    <entry file="file://$PROJECT_DIR$/mybatis_spring_log/src/main/java/com/vico/model/AddUserCase.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="283">
-          <caret line="23" column="1" selection-start-line="23" selection-start-column="1" selection-end-line="23" selection-end-column="1" />
+        <state relative-caret-position="108">
+          <caret line="4" column="5" selection-start-line="4" selection-start-column="5" selection-end-line="4" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mybatis_spring_log/src/main/java/com/vico/model/User.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="202">
+          <caret line="17" column="41" lean-forward="true" selection-start-line="17" selection-start-column="41" selection-end-line="17" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mybatis_spring_log/src/main/java/com/vico/model/GetUserListCase.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mybatis_spring_log/src/main/java/com/vico/model/UpdateUserInfoCase.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="13" column="28" lean-forward="true" selection-start-line="13" selection-start-column="28" selection-end-line="13" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mybatis_spring_log/src/main/resources/mapper/mysql.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="310">
+          <caret line="23" selection-start-line="23" selection-end-line="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mybatis_spring_log/src/main/java/com/vico/config/ExtentTestNGIReporterListener.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1675">
+          <caret line="112" column="61" selection-start-line="112" selection-start-column="61" selection-end-line="112" selection-end-column="61" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#729#730#0" expanded="true" />
-            <element signature="e#772#773#0" expanded="true" />
+            <element signature="e#6428#6441#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/mybatis_spring_log/src/main/resources/logback.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1809">
-          <caret line="67" column="7" selection-start-line="67" selection-start-column="7" selection-end-line="67" selection-end-column="7" />
+        <state relative-caret-position="216">
+          <caret line="8" column="48" selection-start-line="8" selection-start-column="48" selection-end-line="8" selection-end-column="48" />
         </state>
       </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mybatis_spring_log/src/main/java/com/vico/config/TestConfig.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="297">
+          <caret line="12" column="36" selection-start-line="12" selection-start-column="36" selection-end-line="12" selection-end-column="36" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mybatis_spring_log/src/main/java/com/vico/model/LoginCase.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="243">
+          <caret line="9" column="27" selection-start-line="9" selection-start-column="19" selection-end-line="9" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mybatis_spring_log/src/main/resources/mybatis-config.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="540">
+          <caret line="20" column="22" lean-forward="true" selection-start-line="20" selection-start-column="22" selection-end-line="20" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mybatis_spring_log/src/main/java/com/vico/model/InterfaceName.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="108">
+          <caret line="4" column="1" selection-start-line="4" selection-start-column="1" selection-end-line="4" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mybatis_spring_log/src/main/java/com/vico/utils/ConfigFile.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="486">
+          <caret line="18" column="39" selection-start-line="18" selection-start-column="39" selection-end-line="18" selection-end-column="39" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mybatis_spring_log/src/main/java/com/vico/mysqldemo/Demo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-81">
+          <caret line="9" column="27" lean-forward="true" selection-start-line="9" selection-start-column="27" selection-end-line="9" selection-end-column="27" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mybatis_spring_log/logs/info.log">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mybatis_spring_log/logs/error.log">
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/mybatis_spring_log/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="229">
-          <caret line="56" selection-start-line="56" selection-end-line="56" />
+        <state relative-caret-position="297">
+          <caret line="68" column="57" selection-start-line="68" selection-start-column="57" selection-end-line="68" selection-end-column="57" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/logs/info.log">
+    <entry file="file://$PROJECT_DIR$/mybatis_spring_log/src/main/java/com/vico/cases/LoginTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-162" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/mybatis_spring_log/src/main/java/com/vico/demo/Demo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="292">
-          <caret line="60" column="5" lean-forward="true" selection-start-line="60" selection-start-column="5" selection-end-line="60" selection-end-column="5" />
+        <state relative-caret-position="243">
+          <caret line="27" column="79" selection-start-line="27" selection-start-column="79" selection-end-line="27" selection-end-column="79" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#1754#1755#0" expanded="true" />
-            <element signature="e#1803#1804#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mybatis_spring_log/src/main/java/com/vico/utils/DatabaseUtil.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="10" column="25" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="25" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mybatis_spring_log/src/main/java/com/vico/cases/MyTestXml.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="243">
+          <caret line="9" column="1" lean-forward="true" selection-start-line="9" selection-start-column="1" selection-end-line="9" selection-end-column="1" />
+          <folding>
+            <element signature="e#124#125#0" expanded="true" />
+            <element signature="e#160#161#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mybatis_spring_log/src/main/resources/application.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="297">
+          <caret line="11" column="36" selection-start-line="11" selection-start-column="25" selection-end-line="11" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mybatis_spring_log/src/main/resources/userManager.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-540">
+          <caret line="46" column="22" selection-start-line="46" selection-start-column="22" selection-end-line="46" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/mybatis/mybatis/3.4.4/mybatis-3.4.4.jar!/org/apache/ibatis/session/SqlSession.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="189">
+          <caret line="17" column="10" selection-start-line="17" selection-start-column="10" selection-end-line="17" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mybatis_spring_log/src/main/java/com/vico/cases/AddUserTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="211">
+          <caret line="32" column="33" lean-forward="true" selection-start-line="32" selection-start-column="33" selection-end-line="32" selection-end-column="33" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mybatis_spring_log/src/main/resources/mapper/MyTestMapper.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="16" column="22" lean-forward="true" selection-start-line="16" selection-start-column="22" selection-end-line="16" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mybatis_spring_log/src/main/resources/testng.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="189">
+          <caret line="7" column="46" lean-forward="true" selection-start-line="7" selection-start-column="46" selection-end-line="7" selection-end-column="46" />
         </state>
       </provider>
     </entry>

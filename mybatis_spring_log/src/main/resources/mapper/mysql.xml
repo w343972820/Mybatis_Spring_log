@@ -6,6 +6,10 @@
     <select id="getUserCount" parameterType="Integer" resultType="String">
         select phoneormail from oremin_front.user_sms where id=#{id};
     </select>
+    <select id="getCity" parameterType="Integer" resultType="String">
+        select Name from city where id=#{id};
+    </select>
+
     <insert id="addSms" parameterType="com.vico.model.UserSms">
         insert into oremin_front.user_sms(phoneormail,code) values(#{phoneormail},#{code});
     </insert>
